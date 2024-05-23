@@ -1,5 +1,5 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"changes done part 2 "<<endl;
+    cout<<"changes done part 3 "<<endl;
 }
